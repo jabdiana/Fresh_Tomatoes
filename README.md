@@ -4,7 +4,7 @@
 Fresh Fries is a website displaying a select number of websites that I personally enjoy. The site displays the movie in a row x column layout with titles and cover images for identification. A trailer will pop up for your enjoyment by clicking any of the movie covers.
 
 ## Details
-Requirements:
+**Requirements:**
 [python 2.7] ( https://www.python.org/downloads/ )
 [GitHub] (  https://desktop.github.com/ ) (optional)
 
