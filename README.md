@@ -1,4 +1,4 @@
-# Fresh Fries
+# Fresh Tomatoes
 
 ## Summary
 Fresh Fries is a website displaying a select number of websites that I personally enjoy. The site displays the movie in a row x column layout with titles and cover images for identification. A trailer will pop up for your enjoyment by clicking any of the movie covers.
